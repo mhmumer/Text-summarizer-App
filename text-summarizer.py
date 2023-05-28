@@ -1,8 +1,7 @@
 import streamlit as st 
 
 # NLP libs 
-import spacy
-from textblob import TextBlob
+
 
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
